@@ -13,4 +13,4 @@ https://queenamyrodriguez.github.io/run-buddy/index.html
 ## Contribution
 Made with ❤️ by Amy Rodriguez
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
